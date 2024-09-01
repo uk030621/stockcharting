@@ -1,0 +1,68 @@
+.heading{
+    font-size: 1.5rem;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.sub-heading{
+    font-size: 1rem;
+    color: hsla(0, 0%, 50%, 0.573);
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    margin-bottom: 5px;
+}
+
+.advisor{
+    font-size: 1.3rem;
+    color: black;
+}
+
+.advisor-type{
+    text-decoration: underline;
+    text-underline-offset: 8px;
+    font-weight: bolder;
+}
+
+.hyperlink1{
+    text-decoration: none;
+}
+
+.hyperlink1:hover{
+    text-decoration: underline;
+    font-weight: bolder;
+}
+
+.add-button{
+    border-radius: 7px;
+    border: none;
+    padding: 10px 12px;
+    cursor: pointer;
+    background-color: black;
+    color: white;
+    transition: 0.5s;
+}
+
+.add-button:hover{
+   background-color: rgba(227, 72, 72, 0.9);
+   color: black;
+}
+
+.date{
+    font-size: 1rem;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.value{
+    font-size: 1rem;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.delete-option{
+    font-style: italic;
+    font-size: small;
+    color:black;
+    margin-bottom: 0;
+}
+
